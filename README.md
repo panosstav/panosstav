@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Panagiotis.
 
-💻 I am a passionate developer from Greece. 
+💻 I am a developer from Greece. 
 
 🎓 My diploma (joint degree) is in Naval Architecture & Marine Engineering at the National Technical University of Athens.
 
