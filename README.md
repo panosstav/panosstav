@@ -1,4 +1,5 @@
-![quantitative-engineering](https://github.com/PanagiotisStavridis/PanagiotisStavridis/assets/143627430/7c69567e-5f4c-4a41-8368-27303440302e)
+![quantitative-engineering](https://github.com/panosstav/panosstav/assets/143627430/e448646c-b3af-41e4-95ff-bcee7774d0cb)
+
 
 👋 Hi, I'm Panagiotis.
 
