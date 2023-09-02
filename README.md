@@ -5,7 +5,7 @@
 
 💻 I am a developer from Greece. 
 
-🎓 My diploma (joint degree) is in Naval Architecture & Marine Engineering at the National Technical University of Athens.
+🎓 My diploma (joint degree BEng & MEng) is in Naval Architecture & Marine Engineering at the National Technical University of Athens.
 
 Diploma Thesis Title: "Operational Assessment of Marine Power Generators Using Data"
 
