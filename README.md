@@ -1,7 +1,7 @@
 ![quantitative-engineering](https://github.com/panosstav/panosstav/assets/143627430/e448646c-b3af-41e4-95ff-bcee7774d0cb)
 
 
-👋 Hi, I'm Panagiotis.
+👋 Hi, I'm @panosstav.
 
 💻 I am a developer from Greece. 
 
