@@ -1,9 +1,9 @@
 ![quantitative-engineering](https://github.com/panosstav/panosstav/assets/143627430/e448646c-b3af-41e4-95ff-bcee7774d0cb)
 
 
-- 👋 Hi, I'm @panosstav.
-- 💻 I am a developer from Greece. 
-- 🎓 My diploma (joint degree BEng & MEng) is in Naval Architecture & Marine Engineering at the National Technical University of Athens.
+- 👋 Hi, I'm @panosstav
+- 💻 I am a developer from Greece
+- 🎓 My diploma (joint degree BEng & MEng) is in Naval Architecture & Marine Engineering at the National Technical University of Athens
   * Diploma Thesis Title: "Operational Assessment of Marine Power Generators Using Data"
 - 📫 How to reach me: panagiwtisstavridis@gmail.com (e-mail) or [panagiotis-stavridis](https://www.linkedin.com/in/panagiotis-stavridis/) (LinkedIn)
 
