@@ -1,6 +1,3 @@
-![quantitative-engineering](https://github.com/panosstav/panosstav/assets/143627430/e448646c-b3af-41e4-95ff-bcee7774d0cb)
-
-
 - 👋 Hi, I'm @panosstav
 - 💻 I am a developer from Greece
 - 🎓 My diploma (joint degree B.Eng. & M.Eng.) is in Naval Architecture & Marine Engineering at the National Technical University of Athens
